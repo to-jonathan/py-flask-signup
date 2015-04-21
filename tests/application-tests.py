@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# jchan added a new comment here for the exercise
 
 import application
 import unittest
